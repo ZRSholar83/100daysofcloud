@@ -1,5 +1,5 @@
 **Add a cover photo like:**
-![placeholder image](https://github.com/ZRSholar83/100daysofcloud/Journey/001/Capture.jpeg)
+![placeholder image](https://github.com/ZRSholar83/100daysofcloud/Journey/001/Capture.jpg)
 
 # Day 1 of 100 Days of Cloud
 
