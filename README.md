@@ -14,16 +14,16 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Zach's Cloud Journey
 
-[✍️ Introduce yourself]
+I'm an IT consultant that helps customers with their EUC implementations/issues. Currently focusing on IGEL, but wanting to know and learn more about the different cloud providers.
 
-[✍️ Tell us why you started this challenge]
+I heard about the challenge on Cloudskills.fm when Gweneth Pena was being interviewed and got really interested.
 
-[✍️ Tell us where you want to be at the end of the challenge]
+The real goal is just to know more and be a more well rounded engineer/consultant. Ideally I'll finish this journey by passing the AWS SAA test and AZ104. 
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [My Twitter](https://twitter.com/ZRSholar)
+- [My LinkedIn](https://www.linkedin.com/in/zach-sholar-b1049589/)
 
 ## Stepping out the door
 

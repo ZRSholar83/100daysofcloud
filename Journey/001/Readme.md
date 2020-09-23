@@ -1,15 +1,15 @@
 **Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+![placeholder image](https://github.com/ZRSholar83/100daysofcloud/Journey/001/Capture.jpeg)
 
-# New post title here
+# Day 1 of 100 Days of Cloud
 
 ## Introduction
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+I am taking this journey with the hopes of becoming a more well rounded engineer and consultant. I'm hoping to come out of this with my AWS SAA and Azure Administrator certs. Here's to learning something new every day!
 
 ## Prerequisite
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+I'll be starting slow, so getting this setup and posting the first day will be my day one. Need to decide this evening what I'll be tackling first. 
 
 ## Use Case
 
@@ -47,6 +47,6 @@
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
+
 
 [link](link)
